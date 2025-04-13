@@ -29,6 +29,6 @@ Go from starting the capture to export in a few clicks, with virtual no wait.
 
 I'm committed to continuous improvement, and your feedback is invaluable.  
 If you know my previous work (_ScreenToGif_), then you know that I love to improve the software based on what you need.  
-Please don't hesitate to [contact me](https://www.nicke.tech) if encounter any issues or if you have suggestions for future enhancements.
+Please don't hesitate to [contact me](https://www.nicke.tech) if you encounter any issues or if you have suggestions for future enhancements.
 
 I hope you enjoy this software as much as I enjoyed creating it!
